@@ -34,5 +34,7 @@ int main() {
     int result = calculateDiagonalSum(n, matrix);
     cout << result << endl;
 
+    printf("hello world");
+
     return 0;
 }
